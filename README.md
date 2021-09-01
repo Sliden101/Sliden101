@@ -1,5 +1,6 @@
 ### I do some penetration testing
 -Some of my projects are opensourced on github
+-Random decompiles srcs might also be here
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sliden101" alt="Sliden" /> </p>
 
 [![Sliden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sliden101)](https://github.com/anuraghazra/github-readme-stats)
