@@ -1,7 +1,7 @@
-### Penetration Tester
+### Cybersecurity Enthusiast 
+
 -Some of my projects are open-sourced here
 
--Random decompiled srcs might also be here
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sliden101" alt="Sliden" /> </p>
 
   <img alt="Sliden's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sliden101&count_private=true&show_icons=true&theme=github_dark" />
