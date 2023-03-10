@@ -2,7 +2,7 @@
 
 - Some of my projects are open-sourced here.
 - I'm currently learning flutter.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sliden101" alt="Sliden" /> </p>
+<p align="left"> <img src="https://count.getloli.com/get/@sliden101?theme=rule34" alt="Sliden" /> </p>
 
   <img alt="Sliden's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sliden101&count_private=true&show_icons=true&theme=github_dark" />
 <!--
