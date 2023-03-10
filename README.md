@@ -1,4 +1,4 @@
-### Cybersecurity Enthusiast 
+### Hobbyist Mathmatician 
 
 - Some of my projects are open-sourced here.
 - I'm currently learning flutter.
