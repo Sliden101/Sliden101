@@ -1,4 +1,4 @@
-### undergrad of mathematics 
+### fake mathematics undergrad student 
 - Some of my projects are open-sourced here.
 
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=Sliden101&count_private=true&show_icons=true&theme=tokyonight)
