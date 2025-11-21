@@ -1,4 +1,6 @@
-### schizophrenic developer 
+### Schizophrenic Developer
+<sup>Talent beats hard work.</sup>
+
 - Some of my projects are open-sourced here.
 
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=Sliden101&count_private=true&show_icons=true&theme=tokyonight)
